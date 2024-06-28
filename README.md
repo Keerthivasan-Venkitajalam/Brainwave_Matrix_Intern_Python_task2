@@ -15,29 +15,6 @@ This project is a comprehensive GUI-based inventory management system for a tire
 
 * Python 3.x (Download from [Python.org](https://www.python.org/downloads/))
 
-## Installation
-
-1. **Clone the Repository**:
-   Open your Terminal or Command Prompt and run the following commands:
-   ```sh
-   git clone https://github.com/Jupiternium/Inventory-Management-System.git
-   cd Inventory-Management-System
-   ```
-
-2. **Install Required Packages**:
-   Ensure you have `pip` installed, then run:
-   ```sh
-   pip install -r requirements.txt
-   ```
-
-## Running the Application
-
-1. **Start the Application**:
-   Navigate to the project directory and run the main application:
-   ```sh
-   python main.py
-   ```
-
 ## Usage
 
 * **Managing Inventory**:
